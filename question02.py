@@ -1,5 +1,3 @@
-from shutil import register_unpack_format
-
 
 def reverse(s):
     
